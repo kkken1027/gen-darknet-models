@@ -1,0 +1,7 @@
+normal
+yawn
+closeeye
+leftswing
+rightswing
+phonetalking
+smoking
